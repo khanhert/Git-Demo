@@ -9,6 +9,7 @@
 	<?php
 	echo"Hello World";
 	echo "Sửa hoài mệt nha";
+	echo "Thầy Bằng đẹp trai";
 	?>
 </body>
 </html>
