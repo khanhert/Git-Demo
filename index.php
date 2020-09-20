@@ -10,6 +10,9 @@
 	echo"Hello World";
 	echo "Sửa hoài mệt nha";
 	echo "Thầy Bằng đẹp trai";
+	echo "Dep cc chu dep";
 	?>
+	
+	
 </body>
 </html>
