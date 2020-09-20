@@ -7,7 +7,8 @@
 </head>
 <body>
 	<?php
-	echo"Hello World";
+	echo"HTMl";
+	echo"hello word ";
 	?>
 </body>
 </html>
