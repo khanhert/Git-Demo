@@ -8,14 +8,14 @@
 <body>
 	<h1>
 		<?php
-		funciton tinhtong($n)
+		getdate();
+		function tinhtong($n)
 		{
-			
 			$tong=0;
-			while ( $n >0) {
-							
+			while ( $n >0) 
+			{	
 				$tong+=$n%10;
-				%n=floor($n/10);
+				$n=floor($n/10);
 			}
 			return $tong;
 		}
@@ -23,6 +23,7 @@
 		echo tinhtong(12345);
 
 	?>
+
 	</h1>
 </body>
 </html>
